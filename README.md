@@ -61,6 +61,4 @@ Tenho grande interesse pela área de tecnologia e estou construindo minha trajet
 
   ---
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/e7cac5da-5d39-4b76-b2e3-a3c90b184467" width="0px" />
-</div>
+<img width="468" height="40" alt="212284158-e840e285-664b-44d7-b79b-e264b5e54825" src="https://github.com/user-attachments/assets/e7cac5da-5d39-4b76-b2e3-a3c90b184467" />
