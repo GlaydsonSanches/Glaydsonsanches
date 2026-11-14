@@ -64,6 +64,9 @@ Tenho grande interesse pela área de tecnologia e estou construindo minha trajet
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 
+<a href="mailto:glaydsonsanches2@gmail.com">
+  <img width="50" height="40" alt="Gmail_icon_(2020) svg" src="https://github.com/user-attachments/assets/7a3799dd-1f07-455e-95f0-0bcbfbd583b7" />
+</a>
   
   ---
 
