@@ -54,9 +54,9 @@ Tenho grande interesse pela área de tecnologia e estou construindo minha trajet
 
 🤝 Será um prazer trocar experiências, conhecer pessoas da área e compartilhar aprendizados!
 
-- 📩 **E-mail:** [![Enviar E-mail](https://shields.io)](mailto:glaydsonsanches2@gmail.com)
-- 💼 **LinkedIn:** [Meu perfil](https://www.linkedin.com/in/glaydsonsanches/)
-- 🐙 **GitHub:** [Meus projetos](https://github.com/GlaydsonSanches)
+- 📩 **E-mail:** [`Enviar email`](mailto:glaydsonsanches2@gmail.com)
+- 💼 **LinkedIn:** [`Meu perfil`](https://www.linkedin.com/in/glaydsonsanches/)
+- 🐙 **GitHub:** [`Meus projetos`](https://github.com/GlaydsonSanches)
 
 <br>
 <div data-importer="socials" align="left">
