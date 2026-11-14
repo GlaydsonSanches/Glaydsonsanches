@@ -1,4 +1,6 @@
+<div> align="center"
 <img width="540" height="304" alt="219007" src="https://github.com/user-attachments/assets/11bb5f0b-5a5f-4f35-b392-191fe63d8554" />
+</div>
 
 
 ## 👩🏻‍💻 Glaydson Sanches
