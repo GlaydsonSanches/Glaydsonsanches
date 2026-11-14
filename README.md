@@ -45,16 +45,12 @@ Tenho grande interesse pela área de tecnologia e estou construindo minha trajet
 [![Glaydson Sanches's GitHub stats](https://github-stats-extended.vercel.app/api?username=GlaydsonSanches&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extende&include_all_commits=true)
 
 
-
-
-
 ## 🌐 Conect with me!
 
 💻 Estou sempre em busca de novos conhecimentos, oportunidades e projetos que me permitam evoluir na área de tecnologia.
 
 🤝 Será um prazer trocar experiências, conhecer pessoas da área e compartilhar aprendizados!
 
-- 📩 **E-mail:** [`Enviar email`](mailto:glaydsonsanches2@gmail.com)
 - 💼 **LinkedIn:** [`Meu perfil`](https://www.linkedin.com/in/glaydsonsanches/)
 - 🐙 **GitHub:** [`Meus projetos`](https://github.com/GlaydsonSanches)
 
@@ -64,9 +60,8 @@ Tenho grande interesse pela área de tecnologia e estou construindo minha trajet
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 
-<a href="mailto:glaydsonsanches2@gmail.com">
-  <img width="50" height="40" alt="Gmail_icon_(2020) svg" src="https://github.com/user-attachments/assets/7a3799dd-1f07-455e-95f0-0bcbfbd583b7" />
-</a>
+[![Gmail](https://img.shields.io/badge/Enviar%20E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=glaydsonsanches2@gmail.com)
+
   
   ---
 
